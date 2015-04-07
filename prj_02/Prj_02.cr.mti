@@ -1,0 +1,82 @@
+{E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_02/processor.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_02/processor.v}
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module PROC_CS147_SEC05
+
+Top level modules:
+	PROC_CS147_SEC05
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_02/register_tb.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_02/register_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module REG_TB
+
+Top level modules:
+	REG_TB
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_02/mem_64MB_tb.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_02/mem_64MB_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module MEM_64MB_TB
+
+Top level modules:
+	MEM_64MB_TB
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_02/da_vinci.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_02/da_vinci.v}
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module DA_VINCI
+
+Top level modules:
+	DA_VINCI
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_02/alu_tb.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_02/alu_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module alu_tb
+
+Top level modules:
+	alu_tb
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_02/control_unit.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_02/control_unit.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module CONTROL_UNIT
+-- Compiling module PROC_SM
+
+Top level modules:
+	CONTROL_UNIT
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_02/memory.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_02/memory.v}
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module MEMORY_64MB
+
+Top level modules:
+	MEMORY_64MB
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_02/da_vinci_tb.v} {1 {vlog -work work -stats=none {E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_02\da_vinci_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_DA_VINCI_TB
+
+Top level modules:
+	a_DA_VINCI_TB
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_02/alu.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_02/alu.v}
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_02/clk_gen.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_02/clk_gen.v}
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module CLK_GENERATOR
+
+Top level modules:
+	CLK_GENERATOR
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_02/register_file.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_02/register_file.v}
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module REGISTER_FILE_32x32
+
+Top level modules:
+	REGISTER_FILE_32x32
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_02/prj_definition.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_02/prj_definition.v}
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+
+} {} {}}

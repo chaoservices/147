@@ -1,0 +1,264 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Standard/ExtraCredit
+vcpu_test
+Z0 !s110 1418520559
+!i10b 1
+!s100 <Dm1A6NXgIU_[fOl@_^PD1
+IaSNaz>3STec_9RLN<Ue][1
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dC:/Users/Standard/Decon/Lab4
+Z3 w1212364262
+Z4 8C:/Users/Standard/Decon/Lab4/cpu_test.v
+Z5 FC:/Users/Standard/Decon/Lab4/cpu_test.v
+Z6 L0 21
+Z7 OP;L;10.3d;59
+r1
+!s85 0
+31
+Z8 !s108 1418520559.069000
+Z9 !s107 C:/Users/Standard/Decon/Lab4/cpu_test.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Standard/Decon/Lab4/cpu_test.v|
+!s101 -O0
+!i113 1
+Z11 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vcpu_top
+!s110 1418521476
+!i10b 1
+!s100 8Jf;knU34lba3KSJW3PP82
+IgShi6k3<85oJlJba^@P842
+R1
+R2
+w1418521289
+8C:/Users/Standard/Decon/Lab4/cpu_top.v
+FC:/Users/Standard/Decon/Lab4/cpu_top.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1418521476.117000
+!s107 C:/Users/Standard/Decon/Lab4/cpu_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Standard/Decon/Lab4/cpu_top.v|
+!s101 -O0
+!i113 1
+R11
+vcpu_vga_driver
+R0
+!i10b 1
+!s100 =^hXYaAE]9e3OVk05XzSL0
+Ia3czSSG<B^MDEoJ@=1G=I3
+R1
+R2
+w1212364294
+8C:/Users/Standard/Decon/Lab4/cpu_vga_driver.v
+FC:/Users/Standard/Decon/Lab4/cpu_vga_driver.v
+R6
+R7
+r1
+!s85 0
+31
+!s108 1418520559.633000
+!s107 C:/Users/Standard/Decon/Lab4/cpu_vga_driver.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Standard/Decon/Lab4/cpu_vga_driver.v|
+!s101 -O0
+!i113 1
+R11
+vdatapath
+!s110 1418522042
+!i10b 1
+!s100 5^W;_hBje;XTRk=Rc4c[a1
+IlSOK55YX2kg41MeV=P;X50
+R1
+R2
+w1418522040
+8C:/Users/Standard/Decon/Lab4/datapath.v
+FC:/Users/Standard/Decon/Lab4/datapath.v
+R6
+R7
+r1
+!s85 0
+31
+!s108 1418522042.125000
+!s107 C:/Users/Standard/Decon/Lab4/datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Standard/Decon/Lab4/datapath.v|
+!s101 -O0
+!i113 1
+R11
+vDff
+R0
+!i10b 1
+!s100 A95aKfV45B^5gQoS2eE>c0
+I6UPg3J>ZfinU7=9TE3`^A2
+R1
+R2
+R3
+R4
+R5
+L0 126
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+n@dff
+vgen_multi_clk
+R0
+!i10b 1
+!s100 NGFeLTMC3[Wc0RZ`ifBC12
+IIQS6B1feKAS1eIHUKi94`3
+R1
+R2
+w1210829588
+8C:/Users/Standard/Decon/Lab4/gen_multi_clk.v
+FC:/Users/Standard/Decon/Lab4/gen_multi_clk.v
+R6
+R7
+r1
+!s85 0
+31
+!s108 1418520559.870000
+!s107 C:/Users/Standard/Decon/Lab4/gen_multi_clk.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Standard/Decon/Lab4/gen_multi_clk.v|
+!s101 -O0
+!i113 1
+R11
+vinstruction_decoder
+!s110 1418521952
+!i10b 1
+!s100 _hg`Mf7aTdNI5;65Rj:=H0
+IWYAMjUPj_Y=jeXLAK<B=j3
+R1
+R2
+w1418521950
+8C:/Users/Standard/Decon/Lab4/instruction_decoder.v
+FC:/Users/Standard/Decon/Lab4/instruction_decoder.v
+R6
+R7
+r1
+!s85 0
+31
+!s108 1418521952.092000
+!s107 C:/Users/Standard/Decon/Lab4/instruction_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Standard/Decon/Lab4/instruction_decoder.v|
+!s101 -O0
+!i113 1
+R11
+vinstruction_ROM
+Z12 !s110 1418520561
+!i10b 1
+!s100 c6b2jkcOmA?A[a:oCdI9H1
+IG<HFdiYR1>5Y4Oho1[PfV0
+R1
+R2
+w1212433252
+8C:/Users/Standard/Decon/Lab4/instruction_ROM.v
+FC:/Users/Standard/Decon/Lab4/instruction_ROM.v
+R6
+R7
+r1
+!s85 0
+31
+!s108 1418520561.198000
+!s107 C:/Users/Standard/Decon/Lab4/instruction_ROM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Standard/Decon/Lab4/instruction_ROM.v|
+!s101 -O0
+!i113 1
+R11
+ninstruction_@r@o@m
+vprogram_counter
+!s110 1418521715
+!i10b 1
+!s100 6XZ^BdfT7o`O_^[>X2<JI2
+IWOAXkjUOhRELRZ]NgQ@N`2
+R1
+R2
+w1418521714
+8C:/Users/Standard/Decon/Lab4/program_counter.v
+FC:/Users/Standard/Decon/Lab4/program_counter.v
+R6
+R7
+r1
+!s85 0
+31
+!s108 1418521715.845000
+!s107 C:/Users/Standard/Decon/Lab4/program_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Standard/Decon/Lab4/program_counter.v|
+!s101 -O0
+!i113 1
+R11
+vregfile
+!s110 1418521518
+!i10b 1
+!s100 1kYA_MS1gdHACNMTECaV83
+IK]1N2JKaK]XalMJRM2h3C1
+R1
+R2
+w1418521516
+8C:/Users/Standard/Decon/Lab4/regfile.v
+FC:/Users/Standard/Decon/Lab4/regfile.v
+R6
+R7
+r1
+!s85 0
+31
+!s108 1418521518.373000
+!s107 C:/Users/Standard/Decon/Lab4/regfile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Standard/Decon/Lab4/regfile.v|
+!s101 -O0
+!i113 1
+R11
+vsync_gen100
+!s110 1418520558
+!i10b 1
+!s100 H[QK?m3Ldj7KCn_^U;j:T1
+INbXb>cGL;MEEnie2ecezY1
+R1
+R2
+w1127626018
+8C:/Users/Standard/Decon/Lab4/100mhz_vga.v
+FC:/Users/Standard/Decon/Lab4/100mhz_vga.v
+L0 4
+R7
+r1
+!s85 0
+31
+!s108 1418520558.913000
+!s107 C:/Users/Standard/Decon/Lab4/100mhz_vga.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Standard/Decon/Lab4/100mhz_vga.v|
+!s101 -O0
+!i113 1
+R11
+vtcgrom
+R12
+!i10b 1
+!s100 b81ZTX^W9dIBE`[73OnSB2
+I1dc=;9CZWm5oJ]=3F8L2I3
+R1
+R2
+w1126642448
+8C:/Users/Standard/Decon/Lab4/tcgrom.v
+FC:/Users/Standard/Decon/Lab4/tcgrom.v
+L0 4
+R7
+r1
+!s85 0
+31
+!s108 1418520561.715000
+!s107 C:/Users/Standard/Decon/Lab4/tcgrom.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Standard/Decon/Lab4/tcgrom.v|
+!s101 -O0
+!i113 1
+R11

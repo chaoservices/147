@@ -1,0 +1,242 @@
+C:/Users/Standard/ExtraCredit/alu.v {1 {vlog -work work -stats=none C:/Users/Standard/ExtraCredit/alu.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module ALU
+-- Compiling module ALUFAST
+
+Top level modules:
+	ALU
+	ALUFAST
+
+} {} {}} C:/Users/Standard/ExtraCredit/mux.v {1 {vlog -work work -stats=none C:/Users/Standard/ExtraCredit/mux.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module mux
+-- Compiling module mux_4x1
+-- Compiling module mux32_2x1
+-- Compiling module mux64_2x1
+-- Compiling module mux32_4x1
+-- Compiling module mux32_8x1
+-- Compiling module mux32_16x1
+-- Compiling module mux32_32x1
+
+Top level modules:
+	mux_4x1
+	mux64_2x1
+	mux32_32x1
+
+} {} {}} C:/Users/Standard/ExtraCredit/mult.v {1 {vlog -work work -stats=none C:/Users/Standard/ExtraCredit/mult.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module mult_32Bit_Unsigned
+-- Compiling module mult
+
+Top level modules:
+	mult
+
+} {} {}} C:/Users/Standard/ExtraCredit/seq_div.v {1 {vlog -work work -stats=none C:/Users/Standard/ExtraCredit/seq_div.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module div
+-- Compiling module divControl
+-- Compiling module a_div_TB
+-- Compiling module divFast
+
+Top level modules:
+	div
+	divControl
+	a_div_TB
+	divFast
+
+} {} {}} C:/Users/Standard/ExtraCredit/clk_gen.v {1 {vlog -work work -stats=none C:/Users/Standard/ExtraCredit/clk_gen.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module CLK_GENERATOR
+
+Top level modules:
+	CLK_GENERATOR
+
+} {} {}} C:/Users/Standard/ExtraCredit/register_file.v {1 {vlog -work work -stats=none C:/Users/Standard/ExtraCredit/register_file.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module REGISTER_FILE_32x32
+-- Compiling module bit32_regester
+-- Compiling module REGISTER_FILE_32x32FAST
+
+Top level modules:
+	REGISTER_FILE_32x32
+	REGISTER_FILE_32x32FAST
+
+} {} {}} C:/Users/Standard/ExtraCredit/prj_definition.v {1 {vlog -work work -stats=none C:/Users/Standard/ExtraCredit/prj_definition.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+
+} {} {}} C:/Users/Standard/ExtraCredit/a_bitRegester_tb.v {1 {vlog -work work -stats=none C:/Users/Standard/ExtraCredit/a_bitRegester_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_bitRegester_tb
+-- Compiling module a_bitRegesterB_tb
+
+Top level modules:
+	a_bitRegester_tb
+	a_bitRegesterB_tb
+
+} {} {}} C:/Users/Standard/ExtraCredit/seq_shift.v {1 {vlog -work work -stats=none C:/Users/Standard/ExtraCredit/seq_shift.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module shift_regester
+-- Compiling module shiftControl
+-- Compiling module a_shift_TB
+
+Top level modules:
+	a_shift_TB
+
+} {} {}} C:/Users/Standard/ExtraCredit/data_path.v {1 {vlog -work work -stats=none C:/Users/Standard/ExtraCredit/data_path.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module DATA_PATH
+
+Top level modules:
+	DATA_PATH
+
+} {} {}} C:/Users/Standard/ExtraCredit/a_alu_tb.v {1 {vlog -work work -stats=none C:/Users/Standard/ExtraCredit/a_alu_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_alu_tb
+
+Top level modules:
+	a_alu_tb
+
+} {} {}} C:/Users/Standard/ExtraCredit/a_mult_tb.v {1 {vlog -work work -stats=none C:/Users/Standard/ExtraCredit/a_mult_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_mult_tb
+
+Top level modules:
+	a_mult_tb
+
+} {} {}} C:/Users/Standard/ExtraCredit/a_half_adder_tb.v {1 {vlog -work work -stats=none C:/Users/Standard/ExtraCredit/a_half_adder_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module half_adder_tb
+
+Top level modules:
+	half_adder_tb
+
+} {} {}} C:/Users/Standard/ExtraCredit/processor.v {1 {vlog -work work -stats=none C:/Users/Standard/ExtraCredit/processor.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module PROC_CS147_SEC05
+
+Top level modules:
+	PROC_CS147_SEC05
+
+} {} {}} C:/Users/Standard/ExtraCredit/rc_add_sub_32.v {1 {vlog -work work -stats=none C:/Users/Standard/ExtraCredit/rc_add_sub_32.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module rc_add_sub_8
+-- Compiling module rc_add_sub_32
+-- Compiling module rc_add_sub_64
+-- Compiling module full_adder
+-- Compiling module half_adder
+
+Top level modules:
+	rc_add_sub_8
+	rc_add_sub_32
+	rc_add_sub_64
+
+} {} {}} C:/Users/Standard/ExtraCredit/a_barrel_shift_tb.v {1 {vlog -work work -stats=none C:/Users/Standard/ExtraCredit/a_barrel_shift_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_barrel_shift_tb
+
+Top level modules:
+	a_barrel_shift_tb
+
+} {} {}} C:/Users/Standard/ExtraCredit/barrel_shifter.v {1 {vlog -work work -stats=none C:/Users/Standard/ExtraCredit/barrel_shifter.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module barrel_shifter
+-- Compiling module left_shifter
+-- Compiling module right_shifter
+-- Compiling module left_shifter64
+-- Compiling module right_shifter64
+-- Compiling module a_right_shifter64_tb
+
+Top level modules:
+	barrel_shifter
+	left_shifter64
+	a_right_shifter64_tb
+
+} {} {}} C:/Users/Standard/ExtraCredit/seq_mul.v {1 {vlog -work work -stats=none C:/Users/Standard/ExtraCredit/seq_mul.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module multiply
+-- Compiling module mulControl
+-- Compiling module a_mul_TB
+-- Compiling module mult
+
+Top level modules:
+	a_mul_TB
+
+} {} {}} C:/Users/Standard/ExtraCredit/logic.v {1 {vlog -work work -stats=none C:/Users/Standard/ExtraCredit/logic.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module notAnd5Bit
+-- Compiling module notAnd3Bit
+-- Compiling module nand5Bit
+-- Compiling module nand3Bit
+-- Compiling module twosComplement
+-- Compiling module twosComplement64
+-- Compiling module buf32
+-- Compiling module nand3
+-- Compiling module bitFlipFlop
+-- Compiling module bit_regester
+-- Compiling module lineDecoder2to4
+-- Compiling module lineDecoder3to8
+-- Compiling module lineDecoder4to16
+-- Compiling module lineDecoder5to32
+-- Compiling module logic
+-- Compiling module nor32
+-- Compiling module and32
+-- Compiling module inv3
+-- Compiling module inv32
+-- Compiling module or31x1
+-- Compiling module or32
+
+Top level modules:
+	notAnd5Bit
+	notAnd3Bit
+	nand5Bit
+	nand3Bit
+	twosComplement
+	twosComplement64
+	buf32
+	bit_regester
+	lineDecoder5to32
+	logic
+	and32
+	or31x1
+	or32
+
+} {} {}} C:/Users/Standard/ExtraCredit/a_32bitreg_tb.v {1 {vlog -work work -stats=none C:/Users/Standard/ExtraCredit/a_32bitreg_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_32bitRegester_tb
+
+Top level modules:
+	a_32bitRegester_tb
+
+} {} {}} C:/Users/Standard/ExtraCredit/a_rc_add_sub_32_tb.v {1 {vlog -work work -stats=none C:/Users/Standard/ExtraCredit/a_rc_add_sub_32_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_rc_add_sub_32_tb
+
+Top level modules:
+	a_rc_add_sub_32_tb
+
+} {} {}} C:/Users/Standard/ExtraCredit/a_full_adder_tb.v {1 {vlog -work work -stats=none C:/Users/Standard/ExtraCredit/a_full_adder_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_full_adder_tb
+
+Top level modules:
+	a_full_adder_tb
+
+} {} {}} C:/Users/Standard/ExtraCredit/4-bitSeqMul.v {1 {vlog -work work -stats=none C:/Users/Standard/ExtraCredit/4-bitSeqMul.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module multiply4
+-- Compiling module controlUnit
+-- Compiling module a_4bitSeqMul_TB
+
+Top level modules:
+	controlUnit
+	a_4bitSeqMul_TB
+
+} {} {}} C:/Users/Standard/ExtraCredit/control_unit.v {1 {vlog -work work -stats=none C:/Users/Standard/ExtraCredit/control_unit.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module CONTROL_UNIT
+-- Compiling module PROC_SM
+
+Top level modules:
+	CONTROL_UNIT
+
+} {} {}}

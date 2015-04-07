@@ -1,0 +1,18 @@
+{E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_01/alu.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_01/alu.v}
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_01/prj_definition.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_01/prj_definition.v}
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_01/prj_01_tb.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_01/prj_01_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module prj_01_tb
+
+Top level modules:
+	prj_01_tb
+
+} {} {}}

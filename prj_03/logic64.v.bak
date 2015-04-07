@@ -1,0 +1,18 @@
+module logic(result, operand);
+	input [63:0] operand;
+	output [63:0] result;
+	wire [63:0] notwire;
+	wire notNeeded;
+	reg add = 0;
+	reg [63:0] uno = 32'b1;
+
+	genvar i;
+	for (i=0; i<63; i=i+1)
+	begin : logic_loop
+		not not1(notwire[i], operand[i]);
+	end
+	
+	rc_add_sub_32 rc(.result(result), .carryOut(notNeeded),
+		.operand1(notwire), .operand2(uno), .subtractNotAdd(add));
+
+endmodule

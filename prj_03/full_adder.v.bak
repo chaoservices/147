@@ -1,0 +1,14 @@
+module full_adder(sum, carryOut, operand1, operand2, carryIn);
+	input operand1, operand2, carryIn;
+	output sum, carryOut;
+
+	wire HA1sum, HA1carry, HA2carry;
+	
+	half_adder HA1(.sum(HA1sum), .carry(HA1carry), 
+		.operand1(operand1), .operand2(operand2));
+	half_adder HA2(.sum(sum), .carry(HA2carry), 
+		.operand1(HA1sum), .operand2(carryIn));
+
+	or inst1(carryOut, HA1carry, HA2carry);
+
+endmodule

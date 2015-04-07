@@ -1,0 +1,280 @@
+{E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/register_file.v} {1 {vlog -work work -stats=none {E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\register_file.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module REGISTER_FILE_32x32
+-- Compiling module bit32_regester
+
+Top level modules:
+	REGISTER_FILE_32x32
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/barrel_shifter.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/barrel_shifter.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module barrel_shifter
+-- Compiling module left_shifter
+-- Compiling module right_shifter
+
+Top level modules:
+	barrel_shifter
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_mem_64MB_tb.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_mem_64MB_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module MEM_64MB_TB
+
+Top level modules:
+	MEM_64MB_TB
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/da_vinci.v} {1 {vlog -work work -stats=none {E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\da_vinci.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module DA_VINCI
+
+Top level modules:
+	DA_VINCI
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/data_path.v} {1 {vlog -work work -stats=none {E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\data_path.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module DATA_PATH
+
+Top level modules:
+	DATA_PATH
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/control_unitOLD.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/control_unitOLD.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module CONTROL_UNIT
+-- Compiling module PROC_SM
+
+Top level modules:
+	CONTROL_UNIT
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_mult_tb.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_mult_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_mult_tb
+
+Top level modules:
+	a_mult_tb
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_rc_add_sub_32_tb.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_rc_add_sub_32_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_rc_add_sub_32_tb
+
+Top level modules:
+	a_rc_add_sub_32_tb
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_half_adder_tb.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_half_adder_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module half_adder_tb
+
+Top level modules:
+	half_adder_tb
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/control_unit.v} {1 {vlog -work work -stats=none {E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\control_unit.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module CONTROL_UNIT
+-- Compiling module PROC_SM
+
+Top level modules:
+	CONTROL_UNIT
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_code_tb.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_code_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_codeTest_tb
+
+Top level modules:
+	a_codeTest_tb
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_bitFlipFlop_tb.v} {1 {vlog -work work -stats=none {E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_bitFlipFlop_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_bitFlipFlop_tb
+
+Top level modules:
+	a_bitFlipFlop_tb
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/memory.v} {1 {vlog -work work -stats=none {E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\memory.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module MEMORY_WRAPPER
+-- Compiling module MEMORY_64MB
+-- Compiling module SYSTEM_IMPLEMENTATION
+
+Top level modules:
+	SYSTEM_IMPLEMENTATION
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/rc_add_sub_32.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/rc_add_sub_32.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module rc_add_sub_32
+-- Compiling module rc_add_sub_64
+-- Compiling module full_adder
+-- Compiling module half_adder
+
+Top level modules:
+	rc_add_sub_32
+	rc_add_sub_64
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_barrel_shift_tb.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_barrel_shift_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_barrel_shift_tb
+
+Top level modules:
+	a_barrel_shift_tb
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/mult.v} {1 {vlog -work work -stats=none {E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\mult.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module mult_32Bit_Unsigned
+-- Compiling module mult
+
+Top level modules:
+	mult
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/REG32_PP.v} {1 {vlog -work work -stats=none {E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\REG32_PP.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module REG32_PP
+-- Compiling module a_REG32_SP_TB
+-- Compiling module a_REG32_PC_TB
+
+Top level modules:
+	a_REG32_SP_TB
+	a_REG32_PC_TB
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_da_vinci_tb.v} {1 {vlog -work work -stats=none {E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_da_vinci_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_DA_VINCI_TB
+
+Top level modules:
+	a_DA_VINCI_TB
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_logic_tb.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_logic_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_logic_tb
+
+Top level modules:
+	a_logic_tb
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/prj_definition.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/prj_definition.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_left_shift_tb.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_left_shift_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_left_shift_tb
+
+Top level modules:
+	a_left_shift_tb
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_bitRegester_tb.v} {1 {vlog -work work -stats=none {E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_bitRegester_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_bitRegester_tb
+
+Top level modules:
+	a_bitRegester_tb
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/logic.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/logic.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module twosComplement
+-- Compiling module twosComplement64
+-- Compiling module buf32
+-- Compiling module nand3
+-- Compiling module bitFlipFlop
+-- Compiling module bit_regester
+-- Compiling module lineDecoder2to4
+-- Compiling module lineDecoder3to8
+-- Compiling module lineDecoder4to16
+-- Compiling module lineDecoder5to32
+-- Compiling module logic
+-- Compiling module nor32
+-- Compiling module and32
+-- Compiling module inv32
+-- Compiling module or31x1
+-- Compiling module or32
+
+Top level modules:
+	twosComplement
+	twosComplement64
+	buf32
+	bit_regester
+	lineDecoder5to32
+	logic
+	and32
+	or31x1
+	or32
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_full_adder_tb.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_full_adder_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_full_adder_tb
+
+Top level modules:
+	a_full_adder_tb
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_alu_tb.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_alu_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_alu_tb
+
+Top level modules:
+	a_alu_tb
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_mux_tb.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_mux_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_mux_tb
+
+Top level modules:
+	a_mux_tb
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_32bitreg_tb.v} {1 {vlog -work work -stats=none {E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_32bitreg_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_32bitRegester_tb
+
+Top level modules:
+	a_32bitRegester_tb
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_or27x1_tb.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_or27x1_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_or27x1_tb
+
+Top level modules:
+	a_or27x1_tb
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_right_shift_tb.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_right_shift_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_right_shift_tb
+
+Top level modules:
+	a_right_shift_tb
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_register_file_tb.v} {1 {vlog -work work -stats=none {E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_register_file_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_RF_TB
+
+Top level modules:
+	a_RF_TB
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/mux.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/mux.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module mux
+-- Compiling module mux32_2x1
+-- Compiling module mux64_2x1
+-- Compiling module mux32_4x1
+-- Compiling module mux32_8x1
+-- Compiling module mux32_16x1
+-- Compiling module mux32_32x1
+
+Top level modules:
+	mux64_2x1
+	mux32_32x1
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/alu.v} {1 {vlog -work work -stats=none {E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\alu.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/clk_gen.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/clk_gen.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module CLK_GENERATOR
+
+Top level modules:
+	CLK_GENERATOR
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_lineDecoder5to32.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_lineDecoder5to32.v}
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module a_lineDecoder5to32_tb
+
+Top level modules:
+	a_lineDecoder5to32_tb
+
+} {} {}}

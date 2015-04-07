@@ -1,0 +1,36 @@
+{E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/rcounter.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/rcounter.v}
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module RIPPLE_COUNTER
+
+Top level modules:
+	RIPPLE_COUNTER
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/rcounter_tb.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/rcounter_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module RIPPLE_COUNTER_TB
+
+Top level modules:
+	RIPPLE_COUNTER_TB
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/tff.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/tff.v}
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module TFF
+
+Top level modules:
+	TFF
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/dff.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/dff.v}
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module DFF
+
+Top level modules:
+	DFF
+
+} {} {}} {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/inv.v} {1 {vlog -work work -stats=none {E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/inv.v}
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module INVERTER
+
+Top level modules:
+	INVERTER
+
+} {} {}}

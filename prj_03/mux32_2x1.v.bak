@@ -1,0 +1,17 @@
+module mux32_2x1(result, operand1, operand2, control);
+	input [31:0] operand1, operand2;
+	input control;
+
+	output [31:0] result;
+
+	wire notwire, and1wire, and2wire;
+	
+	genvar i;
+	generate
+		for (i=0; i<32; i=i+1)
+		begin : mux_gen_loop
+			mux mux_inst(result[i], operand1[i], operand2[i], control);
+		end
+	endgenerate
+endmodule
+			

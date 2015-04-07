@@ -1,0 +1,294 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_02
+valu
+!s110 1418066113
+!i10b 1
+!s100 _@X1fTR;V0OQBOBCC4Z7R2
+IaiAkb:`7[XYTBYRe6EoW_2
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+Z1 dE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_TEST
+w1414626382
+8E:/Standard/Desktop/project2/alu.v
+FE:/Standard/Desktop/project2/alu.v
+Z2 L0 27
+Z3 OP;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1418066112.446000
+!s107 E:\Standard\Desktop\project2\prj_definition.v|E:/Standard/Desktop/project2/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Desktop/project2/alu.v|
+!s101 -O0
+!i113 1
+Z4 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vALU
+!s110 1418066297
+!i10b 1
+!s100 nX3bG=KAZI[bR5of1^h4B2
+I4J2dBXUNLLl5hHOMX1BfN1
+R0
+R1
+w1418066289
+8E:\Standard\Desktop\project2\alu.v
+FE:\Standard\Desktop\project2\alu.v
+R2
+R3
+r1
+!s85 0
+31
+!s108 1418066296.438000
+!s107 E:\Standard\Desktop\project2\prj_definition.v|E:\Standard\Desktop\project2\alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\Standard\Desktop\project2\alu.v|
+!s101 -O0
+!i113 1
+R4
+n@a@l@u
+valu_tb
+!s110 1418066152
+!i10b 1
+!s100 Rd=MJP`IEP^ZoB69F3SlC0
+IZ]@j:ba[G1L2R?cbJ:[Y12
+R0
+R1
+w1414626448
+8E:/Standard/Desktop/project2/alu_tb.v
+FE:/Standard/Desktop/project2/alu_tb.v
+Z5 L0 28
+R3
+r1
+!s85 0
+31
+!s108 1418066150.224000
+!s107 E:\Standard\Desktop\project2\prj_definition.v|E:/Standard/Desktop/project2/alu_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Desktop/project2/alu_tb.v|
+!s101 -O0
+!i113 1
+R4
+vCLK_GENERATOR
+!s110 1418066155
+!i10b 1
+!s100 g<NaZTWFcd<JQbYHFaNnU1
+IcEF4D;hk<e^JFzC4Fz_:d0
+R0
+R1
+w1414626460
+8E:/Standard/Desktop/project2/clk_gen.v
+FE:/Standard/Desktop/project2/clk_gen.v
+L0 18
+R3
+r1
+!s85 0
+31
+!s108 1418066153.571000
+!s107 E:\Standard\Desktop\project2\prj_definition.v|E:/Standard/Desktop/project2/clk_gen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Desktop/project2/clk_gen.v|
+!s101 -O0
+!i113 1
+R4
+n@c@l@k_@g@e@n@e@r@a@t@o@r
+vCONTROL_UNIT
+!s110 1418066159
+!i10b 1
+!s100 :cb@1HbFB3_5V_[YXBnBE3
+ImUP6^O]ILbeV^6oYQ;I^n3
+R0
+R1
+Z6 w1415078544
+Z7 8E:/Standard/Desktop/project2/control_unit.v
+Z8 FE:/Standard/Desktop/project2/control_unit.v
+L0 37
+R3
+r1
+!s85 0
+31
+Z9 !s108 1418066158.409000
+Z10 !s107 E:\Standard\Desktop\project2\prj_definition.v|E:/Standard/Desktop/project2/control_unit.v|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Desktop/project2/control_unit.v|
+!s101 -O0
+!i113 1
+R4
+n@c@o@n@t@r@o@l_@u@n@i@t
+vDA_VINCI
+!s110 1418066162
+!i10b 1
+!s100 9:ShKnOMf6iHM8nEYnkT`3
+ISG[6<mUHafVK]niCcfDX<0
+R0
+R1
+w1414626476
+8E:/Standard/Desktop/project2/da_vinci.v
+FE:/Standard/Desktop/project2/da_vinci.v
+Z12 L0 25
+R3
+r1
+!s85 0
+31
+!s108 1418066161.494000
+!s107 E:\Standard\Desktop\project2\prj_definition.v|E:/Standard/Desktop/project2/da_vinci.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Desktop/project2/da_vinci.v|
+!s101 -O0
+!i113 1
+R4
+n@d@a_@v@i@n@c@i
+vDA_VINCI_TB
+!s110 1418066611
+!i10b 1
+!s100 _]mDZ=WY68CU^RdoomocO1
+IIno_SZQ:BACV7jRlkGl=Z3
+R0
+R1
+w1418066606
+8E:\Standard\Desktop\project2\da_vinci_tb.v
+FE:\Standard\Desktop\project2\da_vinci_tb.v
+Z13 L0 24
+R3
+r1
+!s85 0
+31
+!s108 1418066610.745000
+!s107 E:\Standard\Desktop\project2\prj_definition.v|E:\Standard\Desktop\project2\da_vinci_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\Standard\Desktop\project2\da_vinci_tb.v|
+!s101 -O0
+!i113 1
+R4
+n@d@a_@v@i@n@c@i_@t@b
+vMEM_64MB_TB
+!s110 1418066168
+!i10b 1
+!s100 lT5M:IBMFK3UAcea7Jn7O0
+IZ@>==Y39XMkmT`Sm`X^cZ0
+R0
+R1
+w1414626492
+8E:/Standard/Desktop/project2/mem_64MB_tb.v
+FE:/Standard/Desktop/project2/mem_64MB_tb.v
+R12
+R3
+r1
+!s85 0
+31
+!s108 1418066167.139000
+!s107 E:\Standard\Desktop\project2\prj_definition.v|E:/Standard/Desktop/project2/mem_64MB_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Desktop/project2/mem_64MB_tb.v|
+!s101 -O0
+!i113 1
+R4
+n@m@e@m_64@m@b_@t@b
+vMEMORY_64MB
+!s110 1418066172
+!i10b 1
+!s100 ^D9H6bXoiAH<E6i0SgCJz2
+In[PfoB5G12<FM974ch?e81
+R0
+R1
+w1414728726
+8E:/Standard/Desktop/project2/memory.v
+FE:/Standard/Desktop/project2/memory.v
+R5
+R3
+r1
+!s85 0
+31
+!s108 1418066171.219000
+!s107 E:\Standard\Desktop\project2\prj_definition.v|E:/Standard/Desktop/project2/memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Desktop/project2/memory.v|
+!s101 -O0
+!i113 1
+R4
+n@m@e@m@o@r@y_64@m@b
+vPROC_CS147_SEC05
+!s110 1418066176
+!i10b 1
+!s100 ]a]XZCG13D>Gz3Af5HK:D0
+I4[>cC1cg03cJkKeflDVeI0
+R0
+R1
+w1415050268
+8E:/Standard/Desktop/project2/processor.v
+FE:/Standard/Desktop/project2/processor.v
+R13
+R3
+r1
+!s85 0
+31
+!s108 1418066175.212000
+!s107 E:\Standard\Desktop\project2\prj_definition.v|E:/Standard/Desktop/project2/processor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Desktop/project2/processor.v|
+!s101 -O0
+!i113 1
+R4
+n@p@r@o@c_@c@s147_@s@e@c05
+vPROC_SM
+!s110 1418066160
+!i10b 1
+!s100 _6SN[07clL;gZXzl@La;^2
+IczahZdQmORMFWJ;<[l?R?2
+R0
+R1
+R6
+R7
+R8
+L0 439
+R3
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R4
+n@p@r@o@c_@s@m
+vREG_TB
+!s110 1418066182
+!i10b 1
+!s100 EVzaHX5Hz1P0YPYBzij=G2
+ITSPD<j1NmB2^<]8@[Bo7Z0
+R0
+R1
+w1414640432
+8E:/Standard/Desktop/project2/register_tb.v
+FE:/Standard/Desktop/project2/register_tb.v
+Z14 L0 31
+R3
+r1
+!s85 0
+31
+!s108 1418066180.652000
+!s107 E:\Standard\Desktop\project2\prj_definition.v|E:/Standard/Desktop/project2/register_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Desktop/project2/register_tb.v|
+!s101 -O0
+!i113 1
+R4
+n@r@e@g_@t@b
+vREGISTER_FILE_32x32
+!s110 1418066179
+!i10b 1
+!s100 9bOiS30>MC_6cKIgYmdPQ1
+Iof6Z6WYYC5lhXf^9N_<YX1
+R0
+R1
+w1414626326
+8E:/Standard/Desktop/project2/register_file.v
+FE:/Standard/Desktop/project2/register_file.v
+R14
+R3
+r1
+!s85 0
+31
+!s108 1418066177.824000
+!s107 E:\Standard\Desktop\project2\prj_definition.v|E:/Standard/Desktop/project2/register_file.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Desktop/project2/register_file.v|
+!s101 -O0
+!i113 1
+R4
+n@r@e@g@i@s@t@e@r_@f@i@l@e_32x32

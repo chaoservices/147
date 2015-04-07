@@ -1,0 +1,106 @@
+/**
+* Compairs two 32-bit operands and returns the truth of their comparison by nor
+* 
+* @result the truth comparison of bits
+* @operand1 32 bits compaired bit by bit
+* @operand1 32 bits compaired but by bit
+*/
+module nor32(result, operand1, operand2);
+	input [31:0] operand1, operand2;
+	output [31:0] result;
+	genvar i;
+	generate
+		for (i=0; i<32; i=i+1)
+		begin : nor32_loop
+			nor nor1(result[i], operand1[i], operand2[i]);
+		end
+	endgenerate
+endmodule
+
+/**
+* Compairs two 32-bit operands and returns the truth of their comparison by and
+* 
+* @result the truth comparison of bits
+* @operand1 32 bits compaired bit by bit
+* @operand1 32 bits compaired but by bit
+*/
+module and32(result, operand1, operand2);
+	input [31:0] operand1, operand2;
+	output [31:0] result;
+	genvar i;
+	generate
+		for (i=0; i<32; i=i+1)
+		begin : nor32_loop
+			and a1(result[i], operand1[i], operand2[i]);
+		end
+	endgenerate
+endmodule
+
+/**
+* Inverts 32 bits. Bit by bit
+* 
+* @result the opposite of input
+* @operand the bits to be flipped
+*/
+module inv32(result, operand);
+	input [31:0] operand;
+	output [31:0] result;
+	genvar i;
+	generate
+		for (i=0; i<32; i=i+1)
+		begin : not32_loop
+			not not1(result[i], operand[i]);
+		end
+	endgenerate
+endmodule
+
+/**
+* Compares 27 bits and returns true if any of them are
+* @operand is the list of bits to be compaired
+* @result is true if any input bit is
+*/
+module or27x1(result, operand);
+	input [26:0] operand;
+	wire [24:0] orWire;//2 less than op
+	output result;
+	or o0(orWire[0], operand[0], operand[1]);
+	or o1(orWire[1], orWire[0], operand[2]);
+	or o2(orWire[2], orWire[1], operand[3]);
+	or o3(orWire[3], orWire[2], operand[4]);
+	or o4(orWire[4], orWire[3], operand[5]);
+	or o5(orWire[5], orWire[4], operand[6]);
+	or o6(orWire[6], orWire[5], operand[7]);	or o7(orWire[7], orWire[6], operand[8]);
+	or o8(orWire[8], orWire[7], operand[9]);
+	or o9(orWire[9], orWire[8], operand[10]);
+	or o10(orWire[10], orWire[9], operand[11]);
+	or o11(orWire[11], orWire[10], operand[12]);
+	or o12(orWire[12], orWire[11], operand[13]);
+	or o13(orWire[13], orWire[12], operand[14]);
+	or o14(orWire[14], orWire[13], operand[15]);
+	or o15(orWire[15], orWire[14], operand[16]);
+	or o16(orWire[16], orWire[15], operand[17]);
+	or o17(orWire[17], orWire[16], operand[18]);
+	or o18(orWire[18], orWire[17], operand[19]);
+	or o19(orWire[19], orWire[18], operand[20]);
+	or o20(orWire[20], orWire[19], operand[21]);
+	or o21(orWire[21], orWire[20], operand[22]);
+	or o22(orWire[22], orWire[21], operand[23]);
+	or o23(orWire[23], orWire[22], operand[24]);
+	or o24(orWire[24], orWire[23], operand[25]);
+	or on(result, orWire[24], operand[26]);
+endmodule
+
+/**
+* Compairs two 32-bit operands and returns the truth of their comparison by or.
+* 
+* @result the truth of line by line comparison.
+* @operand1 the first 32 bit to compare
+* @operand2 the second 32 bit to compare
+*/
+module or32(result, operand1, operand2);
+	input [31:0] operand1, operand2;
+	output [31:0] result;
+	wire [31:0] norWire;
+	nor32 n1(.result(norWire), .operand1(operand1), .operand2(operand2));
+	inv32 i1(.result(results), .operand(norWire));
+endmodule

@@ -1,0 +1,1706 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.3c/examples
+va_32bitRegester_tb
+!s110 1418070272
+!i10b 1
+!s100 :7YQU5g3D:NE@JXzLhnX32
+IeW;lF:AkK6o270_]F2Md03
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+Z1 dE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03
+w1418070264
+8E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_32bitreg_tb.v
+FE:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_32bitreg_tb.v
+L0 2
+Z2 OP;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1418070270.734000
+!s107 E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_32bitreg_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_32bitreg_tb.v|
+!s101 -O0
+!i113 1
+Z3 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+na_32bit@regester_tb
+va_alu_tb
+!s110 1417818789
+!i10b 1
+!s100 C^;<_A=V0O;h`NnOg80=Y2
+IZKOT5WTm1BdzW0;9l9K=<0
+R0
+R1
+w1417242876
+8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_alu_tb.v
+FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_alu_tb.v
+L0 25
+R2
+r1
+!s85 0
+31
+!s108 1417818788.243000
+!s107 prj_definition.v|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_alu_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_alu_tb.v|
+!s101 -O0
+!i113 1
+R3
+va_barrel_shift_tb
+!s110 1417818787
+!i10b 1
+!s100 M`K?HB3N0zmJE[ZHK:`BJ1
+IYez=UT=^V3TN67Mn<4oD?0
+R0
+R1
+w1416639112
+8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_barrel_shift_tb.v
+FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_barrel_shift_tb.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1417818786.743000
+!s107 E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_barrel_shift_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_barrel_shift_tb.v|
+!s101 -O0
+!i113 1
+R3
+va_bitFlipFlop_tb
+!s110 1418062550
+!i10b 1
+!s100 VI@>mLV5I;iGgikJNzOaT0
+Ib]WWgl:P:PmO_;bf22K=U1
+R0
+R1
+w1418062485
+8E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_bitFlipFlop_tb.v
+FE:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_bitFlipFlop_tb.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1418062549.588000
+!s107 E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_bitFlipFlop_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_bitFlipFlop_tb.v|
+!s101 -O0
+!i113 1
+R3
+na_bit@flip@flop_tb
+va_bitRegester_tb
+!s110 1418092734
+!i10b 1
+!s100 @GjGoDQ<JPkB@J[c5AF2^2
+IAE2W^C=_]82oCD2h;AVXC3
+R0
+R1
+w1418091651
+8E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_bitRegester_tb.v
+FE:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_bitRegester_tb.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1418092733.956000
+!s107 E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_bitRegester_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_bitRegester_tb.v|
+!s101 -O0
+!i113 1
+R3
+na_bit@regester_tb
+va_codeTest_tb
+!s110 1418021082
+!i10b 1
+!s100 eJHiDkQaH@`0OGIU50mN:3
+IZ;B_hPH8Ec[PXQVZ>o8fo0
+R0
+R1
+w1417627618
+8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_code_tb.v
+FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_code_tb.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1418021081.319000
+!s107 E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_code_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_code_tb.v|
+!s101 -O0
+!i113 1
+R3
+na_code@test_tb
+va_DA_VINCI_TB
+!s110 1418100783
+!i10b 1
+!s100 R^32NDYAEi9UGfNalVk8e0
+I1f1cB3?zPl71F^LK;^k_B2
+R0
+R1
+w1418100528
+8E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_da_vinci_tb.v
+FE:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_da_vinci_tb.v
+Z4 L0 24
+R2
+r1
+!s85 0
+31
+!s108 1418100782.787000
+!s107 prj_definition.v|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_da_vinci_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_da_vinci_tb.v|
+!s101 -O0
+!i113 1
+R3
+na_@d@a_@v@i@n@c@i_@t@b
+va_full_adder_tb
+!s110 1417818819
+!i10b 1
+!s100 kZ3mXWHN0?Snkjdcge<K32
+I]3kjJ3[F=[`aSY=eiiCmn3
+R0
+R1
+w1417159320
+Z5 8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_full_adder_tb.v
+Z6 FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_full_adder_tb.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1417818818.508000
+Z7 !s107 E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_full_adder_tb.v|
+Z8 !s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_full_adder_tb.v|
+!s101 -O0
+!i113 1
+R3
+va_half_adder_tb
+!s110 1415814743
+!i10b 1
+!s100 JQj4e[ZGIgg<;cdaHkIXY1
+I`11mf1kejHmXn1goPBcgX1
+R0
+R1
+w1415813405
+R5
+R6
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1415814742.779000
+R7
+R8
+!s101 -O0
+!i113 1
+R3
+va_left_shift_tb
+!s110 1417818825
+!i10b 1
+!s100 b0M0?>ognOJ`J_R8U93Gf1
+II16DJA6X8afh98YgnoYf11
+R0
+R1
+w1416640214
+8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_left_shift_tb.v
+FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_left_shift_tb.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1417818824.831000
+!s107 E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_left_shift_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_left_shift_tb.v|
+!s101 -O0
+!i113 1
+R3
+va_lineDecoder5to32_tb
+!s110 1418060683
+!i10b 1
+!s100 :bD`?miGWhdiHkRY>2DdH3
+IViE8fg4Sd8`[ZGe73E4C[2
+R0
+R1
+w1418060679
+8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_lineDecoder5to32.v
+FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_lineDecoder5to32.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1418060682.781000
+!s107 E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_lineDecoder5to32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_lineDecoder5to32.v|
+!s101 -O0
+!i113 1
+R3
+na_line@decoder5to32_tb
+va_logic_tb
+!s110 1417224644
+!i10b 1
+!s100 P8CDb:5EhWJ[hWcYchk161
+IDVVJPFm^D1N@:8<z8mm0C3
+R0
+R1
+w1416123024
+8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_logic_tb.v
+FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_logic_tb.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1417224639.033000
+!s107 E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_logic_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_logic_tb.v|
+!s101 -O0
+!i113 1
+R3
+va_mult_tb
+!s110 1417818828
+!i10b 1
+!s100 =Ed5zLkT[3Dim_>nRj:VW2
+IRTGRZKJ82:G8NMBz8Q33T1
+R0
+R1
+w1417236278
+8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_mult_tb.v
+FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_mult_tb.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1417818827.672000
+!s107 E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_mult_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_mult_tb.v|
+!s101 -O0
+!i113 1
+R3
+va_mux_tb
+!s110 1417224635
+!i10b 1
+!s100 [YI];dzh0R[[UE]HQE_F>2
+IDkH`[?IB[>U0[FbF^lhg^3
+R0
+R1
+w1415828854
+8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_mux_tb.v
+FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_mux_tb.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1417224634.464000
+!s107 E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_mux_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_mux_tb.v|
+!s101 -O0
+!i113 1
+R3
+va_or27x1_tb
+!s110 1417818826
+!i10b 1
+!s100 2BAQ2SnHATX1]9;O98Xn^3
+I9]Z3@cUOJC^eafH7b[^7a1
+R0
+R1
+w1416641392
+8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_or27x1_tb.v
+FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_or27x1_tb.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1417818826.252000
+!s107 E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_or27x1_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_or27x1_tb.v|
+!s101 -O0
+!i113 1
+R3
+va_rc_add_sub_32_tb
+!s110 1417818820
+!i10b 1
+!s100 @<BI]cB>JFYLzUSV3o=^S1
+IBJ97DAXi;U`i6bNAbcZ[I3
+R0
+R1
+w1417226466
+8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_rc_add_sub_32_tb.v
+FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_rc_add_sub_32_tb.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1417818820.040000
+!s107 E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_rc_add_sub_32_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_rc_add_sub_32_tb.v|
+!s101 -O0
+!i113 1
+R3
+va_REG32_PC_TB
+Z9 !s110 1418092884
+!i10b 1
+!s100 HniI`mf4A:I81afk]a5[Z1
+I9QL>N3I<PJDNBV97KSbFU0
+R0
+R1
+Z10 w1418092878
+Z11 8E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\REG32_PP.v
+Z12 FE:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\REG32_PP.v
+L0 59
+R2
+r1
+!s85 0
+31
+Z13 !s108 1418092883.209000
+Z14 !s107 E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\REG32_PP.v|
+Z15 !s90 -reportprogress|300|-work|work|-stats=none|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\REG32_PP.v|
+!s101 -O0
+!i113 1
+R3
+na_@r@e@g32_@p@c_@t@b
+va_REG32_SP_TB
+R9
+!i10b 1
+!s100 Nijhog7<R;_Qf>;P>ORD82
+I`DXCaISISjlIFUJb>TGPD0
+R0
+R1
+R10
+R11
+R12
+Z16 L0 28
+R2
+r1
+!s85 0
+31
+R13
+R14
+R15
+!s101 -O0
+!i113 1
+R3
+na_@r@e@g32_@s@p_@t@b
+va_RF_TB
+!s110 1418084332
+!i10b 1
+!s100 1c8<k^5^H76`fCC<hPAl41
+IZYZ<f6bVea?k>g@4V0<Yk3
+R0
+R1
+w1418084287
+8E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_register_file_tb.v
+FE:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_register_file_tb.v
+Z17 L0 23
+R2
+r1
+!s85 0
+31
+!s108 1418084331.531000
+!s107 prj_definition.v|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_register_file_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\a_register_file_tb.v|
+!s101 -O0
+!i113 1
+R3
+na_@r@f_@t@b
+va_right_shift_tb
+!s110 1417827871
+!i10b 1
+!s100 YTNBSa<hV<h6DQ>ZbDAXT1
+IgKzW:z26d:B>1VAH^kKO11
+R0
+R1
+w1416323634
+8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_right_shift_tb.v
+FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_right_shift_tb.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1417827871.048000
+!s107 E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_right_shift_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_right_shift_tb.v|
+!s101 -O0
+!i113 1
+R3
+vALU
+!s110 1417818817
+!i10b 1
+!s100 dZ0<GlPPKTRC=Z=hh`cB23
+IY2;H8h6@3H6Yl:n4EQW;31
+R0
+R1
+w1417241814
+8E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\alu.v
+FE:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\alu.v
+R17
+R2
+r1
+!s85 0
+31
+!s108 1417818816.605000
+!s107 prj_definition.v|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\alu.v|
+!s101 -O0
+!i113 1
+R3
+n@a@l@u
+vand32
+Z18 !s110 1418021076
+!i10b 1
+!s100 V]=UN>]09eJgR5e0R@ZmC2
+IzQRFG7@^86EePm0T7kV>Q0
+R0
+R1
+Z19 w1417822070
+Z20 8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/logic.v
+Z21 FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/logic.v
+L0 237
+R2
+r1
+!s85 0
+31
+Z22 !s108 1418021070.556000
+Z23 !s107 E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/logic.v|
+Z24 !s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/logic.v|
+!s101 -O0
+!i113 1
+R3
+vbarrel_shifter
+Z25 !s110 1417818822
+!i10b 1
+!s100 ^hJ>G2>4jl0zL8Mk5Xd7o3
+I9b;OUaIWS2fah^Oz?>7E`2
+R0
+R1
+Z26 w1417239090
+Z27 8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/barrel_shifter.v
+Z28 FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/barrel_shifter.v
+L0 14
+R2
+r1
+!s85 0
+31
+Z29 !s108 1417818821.552000
+Z30 !s107 prj_definition.v|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/barrel_shifter.v|
+Z31 !s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/barrel_shifter.v|
+!s101 -O0
+!i113 1
+R3
+vbarrel_shifter32
+!s110 1416129235
+!i10b 1
+!s100 YJY;YE2Xhb`PJ8LPIZl_62
+IR4W_?J;BA85O?3dk:gAeN1
+R0
+R1
+w1416128680
+R27
+R28
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1416129228.026000
+!s107 E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/barrel_shifter.v|
+R31
+!s101 -O0
+!i113 1
+R3
+vbarrel_shifter_32
+!s110 1416413696
+!i10b 1
+!s100 [9?@KVa[O>?m=4zN?kegb1
+IM3i9B230?CFWm2R3c@eed2
+R0
+R1
+w1416413683
+8E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\barrel_shifter.v
+FE:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\barrel_shifter.v
+L0 38
+R2
+r1
+!s85 0
+31
+!s108 1416413695.373000
+!s107 prj_definition.v|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\barrel_shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\barrel_shifter.v|
+!s101 -O0
+!i113 1
+R3
+vbit32_regester
+Z32 !s110 1418081520
+!i10b 1
+!s100 ZY8HH>^mSOQ<S;hPW7kJz3
+I?`ITd]]zJeG_M7C;m>mZm3
+R0
+R1
+Z33 w1418081514
+Z34 8E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\register_file.v
+Z35 FE:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\register_file.v
+L0 71
+R2
+r1
+!s85 0
+31
+Z36 !s108 1418081519.879000
+Z37 !s107 prj_definition.v|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\register_file.v|
+Z38 !s90 -reportprogress|300|-work|work|-stats=none|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\register_file.v|
+!s101 -O0
+!i113 1
+R3
+vbit_regester
+Z39 !s110 1418021073
+!i10b 1
+!s100 G_9RDOUKA[]K8SY@@XHLg1
+Io4V^3BVCiQMocf;bHke`C1
+R0
+R1
+R19
+R20
+R21
+L0 102
+R2
+r1
+!s85 0
+31
+R22
+R23
+R24
+!s101 -O0
+!i113 1
+R3
+vbitFlipFlop
+R39
+!i10b 1
+!s100 ^bL9A@LVbk1;R_I4STR`R1
+IiN>4ZB3]GdhzXObHVYe7n1
+R0
+R1
+R19
+R20
+R21
+Z40 L0 70
+R2
+r1
+!s85 0
+31
+R22
+R23
+R24
+!s101 -O0
+!i113 1
+R3
+nbit@flip@flop
+vbuf32
+Z41 !s110 1418021072
+!i10b 1
+!s100 @AAmIeGmEPl9S>cV6?jQd1
+I6NkZ49KhL_XDM;QF3bPzi0
+R0
+R1
+R19
+R20
+R21
+Z42 L0 44
+R2
+r1
+!s85 0
+31
+R22
+R23
+R24
+!s101 -O0
+!i113 1
+R3
+vCLK_GENERATOR
+!s110 1417224578
+!i10b 1
+!s100 GFlgjIFJ;N>6_5CJ`4_RJ2
+IQHC;>HJO:b0nBaW>2:]Uh2
+R0
+R1
+w1415815064
+8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/clk_gen.v
+FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/clk_gen.v
+L0 16
+R2
+r1
+!s85 0
+31
+!s108 1417224577.664000
+!s107 prj_definition.v|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/clk_gen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/clk_gen.v|
+!s101 -O0
+!i113 1
+R3
+n@c@l@k_@g@e@n@e@r@a@t@o@r
+vCONTROL_UNIT
+Z43 !s110 1418099148
+!i10b 1
+!s100 caDJDEU=LU@l81f5G`Dm[2
+Ibc6?Wi^zhQXbd]H0;TfZG0
+R0
+R1
+Z44 w1418099145
+Z45 8E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\control_unit.v
+Z46 FE:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\control_unit.v
+Z47 L0 22
+R2
+r1
+!s85 0
+31
+Z48 !s108 1418099147.241000
+Z49 !s107 prj_definition.v|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\control_unit.v|
+Z50 !s90 -reportprogress|300|-work|work|-stats=none|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\control_unit.v|
+!s101 -O0
+!i113 1
+R3
+n@c@o@n@t@r@o@l_@u@n@i@t
+vDA_VINCI
+!s110 1418088933
+!i10b 1
+!s100 OIe>1kEiNUU6<V^<7ZQR51
+IGS1SGfY_iAJNS<PHkEjNg1
+R0
+R1
+w1418088914
+8E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\da_vinci.v
+FE:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\da_vinci.v
+R4
+R2
+r1
+!s85 0
+31
+!s108 1418088930.756000
+!s107 prj_definition.v|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\da_vinci.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\da_vinci.v|
+!s101 -O0
+!i113 1
+R3
+n@d@a_@v@i@n@c@i
+vDA_VINCI_TB
+!s110 1417224606
+!i10b 1
+!s100 LQ_Ifk7FT7Pd>:XT_Deb<1
+IN6>DBnCFPkPUj6[0ng2oJ0
+R0
+R1
+w1415815020
+8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_da_vinci_tb.v
+FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_da_vinci_tb.v
+R4
+R2
+r1
+!s85 0
+31
+!s108 1417224605.443000
+!s107 prj_definition.v|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_da_vinci_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_da_vinci_tb.v|
+!s101 -O0
+!i113 1
+R3
+n@d@a_@v@i@n@c@i_@t@b
+vDATA_PATH
+!s110 1418089440
+!i10b 1
+!s100 ]H?5InzGn]6?WdA?M]U=d2
+IaB6FPn0l[MW:dVUmeZCi<2
+R0
+R1
+w1418089434
+8E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\data_path.v
+FE:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\data_path.v
+R47
+R2
+r1
+!s85 0
+31
+!s108 1418089440.372000
+!s107 prj_definition.v|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\data_path.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\data_path.v|
+!s101 -O0
+!i113 1
+R3
+n@d@a@t@a_@p@a@t@h
+vfull_adder
+Z51 !s110 1417818856
+!i10b 1
+!s100 NU?FaiMajQg@zWz;Y`@I40
+I_h:71O@YDh7@VBj^e]h<X3
+R0
+R1
+Z52 w1417226054
+Z53 8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/rc_add_sub_32.v
+Z54 FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/rc_add_sub_32.v
+R40
+R2
+r1
+!s85 0
+31
+Z55 !s108 1417818855.837000
+Z56 !s107 E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/rc_add_sub_32.v|
+Z57 !s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/rc_add_sub_32.v|
+!s101 -O0
+!i113 1
+R3
+vhalf_adder
+R51
+!i10b 1
+!s100 YVW0z?Akb5QibH?O^JhV32
+I[9cY]14lj0MUjdEo?HWiz0
+R0
+R1
+R52
+R53
+R54
+L0 87
+R2
+r1
+!s85 0
+31
+R55
+R56
+R57
+!s101 -O0
+!i113 1
+R3
+vhalf_adder_tb
+!s110 1417224614
+!i10b 1
+!s100 ^]cz[^dAeE2Tzoi4T;<m:1
+Iz7H[^ClcSGO]U9EbaB5g20
+R0
+R1
+w1415813148
+8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_half_adder_tb.v
+FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_half_adder_tb.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1417224613.280000
+!s107 E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_half_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_half_adder_tb.v|
+!s101 -O0
+!i113 1
+R3
+vinv32
+R18
+!i10b 1
+!s100 ;N7mFiYR1WmdROcS?8X]g2
+IBYO8@]GBPB1?e^Fec2f732
+R0
+R1
+R19
+R20
+R21
+L0 255
+R2
+r1
+!s85 0
+31
+R22
+R23
+R24
+!s101 -O0
+!i113 1
+R3
+vleft_shifter
+R25
+!i10b 1
+!s100 _BLfe6MEc>B2fC?CRd5ao1
+Iz=A=XV<FoobhBcX6`2fBZ2
+R0
+R1
+R26
+R27
+R28
+R42
+R2
+r1
+!s85 0
+31
+R29
+R30
+R31
+!s101 -O0
+!i113 1
+R3
+vlineDecoder2to4
+Z58 !s110 1418021074
+!i10b 1
+!s100 VVhDe[kDRH=5iZH?b[B4B1
+IhXfbX1@JSkEXiTVVBXYKO1
+R0
+R1
+R19
+R20
+R21
+L0 117
+R2
+r1
+!s85 0
+31
+R22
+R23
+R24
+!s101 -O0
+!i113 1
+R3
+nline@decoder2to4
+vlineDecoder3to8
+R58
+!i10b 1
+!s100 UYUASUDV]3Hn9@ldokco:1
+IjOPGOoO;zWV8189iYcAfS1
+R0
+R1
+R19
+R20
+R21
+L0 133
+R2
+r1
+!s85 0
+31
+R22
+R23
+R24
+!s101 -O0
+!i113 1
+R3
+nline@decoder3to8
+vlineDecoder4to16
+R58
+!i10b 1
+!s100 QUD<48k3jHFM9El;5h1TI3
+I@BTdf8DCiaJBheUR=:S=Q0
+R0
+R1
+R19
+R20
+R21
+L0 153
+R2
+r1
+!s85 0
+31
+R22
+R23
+R24
+!s101 -O0
+!i113 1
+R3
+nline@decoder4to16
+vlineDecoder5to32
+Z59 !s110 1418021075
+!i10b 1
+!s100 13CRz9>dzh?:ZJ5izhnF<0
+I]Ge=<cjdESTfe?<[bHE]53
+R0
+R1
+R19
+R20
+R21
+L0 173
+R2
+r1
+!s85 0
+31
+R22
+R23
+R24
+!s101 -O0
+!i113 1
+R3
+nline@decoder5to32
+vlogic
+R59
+!i10b 1
+!s100 O4HAGFN]n>>dDNOdN;@bD0
+IhnakNPfNWA`?KYXakGUMk2
+R0
+R1
+R19
+R20
+R21
+L0 193
+R2
+r1
+!s85 0
+31
+R22
+R23
+R24
+!s101 -O0
+!i113 1
+R3
+vMEM_64MB_TB
+!s110 1417224611
+!i10b 1
+!s100 7FJo1Nj>0o<IRA8`fQhaD3
+IYYNlAa3PBbHAiez[`HPXj2
+R0
+R1
+w1415815014
+8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_mem_64MB_tb.v
+FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_mem_64MB_tb.v
+R17
+R2
+r1
+!s85 0
+31
+!s108 1417224610.843000
+!s107 prj_definition.v|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_mem_64MB_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_mem_64MB_tb.v|
+!s101 -O0
+!i113 1
+R3
+n@m@e@m_64@m@b_@t@b
+vMEMORY_64MB
+Z60 !s110 1417818848
+!i10b 1
+!s100 aT<C>0dREL42:zoP2j2c>3
+IGEWYk76?]WR^DOOAl<LEn0
+R0
+R1
+Z61 w1417305030
+Z62 8E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\memory.v
+Z63 FE:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\memory.v
+L0 63
+R2
+r1
+!s85 0
+31
+Z64 !s108 1417818847.949000
+Z65 !s107 prj_definition.v|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\memory.v|
+Z66 !s90 -reportprogress|300|-work|work|-stats=none|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\memory.v|
+!s101 -O0
+!i113 1
+R3
+n@m@e@m@o@r@y_64@m@b
+vMEMORY_WRAPPER
+R60
+!i10b 1
+!s100 Clh0=3JglKWYRC?29F<SJ2
+IT9[;YjcAdaWS@;ECf^bEZ3
+R0
+R1
+R61
+R62
+R63
+Z67 L0 26
+R2
+r1
+!s85 0
+31
+R64
+R65
+R66
+!s101 -O0
+!i113 1
+R3
+n@m@e@m@o@r@y_@w@r@a@p@p@e@r
+vmult
+Z68 !s110 1417812726
+!i10b 1
+!s100 3D4X?8TLb2l8MUZAQn56N1
+I3FDJX_jCDF4z_J5WnSbiN0
+R0
+R1
+Z69 w1417235938
+Z70 8E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\mult.v
+Z71 FE:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\mult.v
+L0 32
+R2
+r1
+!s85 0
+31
+Z72 !s108 1417812725.556000
+Z73 !s107 E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\mult.v|
+Z74 !s90 -reportprogress|300|-work|work|-stats=none|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\mult.v|
+!s101 -O0
+!i113 1
+R3
+vmult_32Bit_Signed
+!s110 1417228548
+!i10b 1
+!s100 dC=FgEP;@SlTWlV:ZTPWX0
+ImCf3XkPiVJ;LX`S=Z?2cl3
+R0
+R1
+w1417228542
+R70
+R71
+L0 74
+R2
+r1
+!s85 0
+31
+!s108 1417228546.908000
+R73
+R74
+!s101 -O0
+!i113 1
+R3
+nmult_32@bit_@signed
+vmult_32Bit_Unsigned
+R68
+!i10b 1
+!s100 M[eQj33XNVcKia7TifleG3
+Ik_PKlbBS9jLELH5dZ51`A0
+R0
+R1
+R69
+R70
+R71
+L0 7
+R2
+r1
+!s85 0
+31
+R72
+R73
+R74
+!s101 -O0
+!i113 1
+R3
+nmult_32@bit_@unsigned
+vmux
+Z75 !s110 1418021067
+!i10b 1
+!s100 @_aS2OIzU?E^6YCCZUbJV3
+IIBCl_?]M_`_:jl7YPe[e]1
+R0
+R1
+Z76 w1417815412
+Z77 8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/mux.v
+Z78 FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/mux.v
+L0 6
+R2
+r1
+!s85 0
+31
+Z79 !s108 1418021065.968000
+Z80 !s107 E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/mux.v|
+Z81 !s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/mux.v|
+!s101 -O0
+!i113 1
+R3
+vmux32_16x1
+Z82 !s110 1418021068
+!i10b 1
+!s100 9nOQ`4X3TOd`HTDhYi3P31
+Iz6K]B:Gkz?5<]K9M9ieUD2
+R0
+R1
+R76
+R77
+R78
+L0 92
+R2
+r1
+!s85 0
+31
+R79
+R80
+R81
+!s101 -O0
+!i113 1
+R3
+vmux32_2x1
+R75
+!i10b 1
+!s100 :VI[hn9zEhKTH]hgQ32iB3
+I=2m?8:k>c8dWSn3gBnQ1`1
+R0
+R1
+R76
+R77
+R78
+R16
+R2
+r1
+!s85 0
+31
+R79
+R80
+R81
+!s101 -O0
+!i113 1
+R3
+vmux32_31x1
+!s110 1417130153
+!i10b 1
+!s100 ;IV1D3LNJJ_`F94B=08m;0
+IA2;jXAkaA>H[@]dc83bUg3
+R0
+R1
+w1417130149
+8E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\mux.v
+FE:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\mux.v
+L0 94
+R2
+r1
+!s85 0
+31
+!s108 1417130151.631000
+!s107 E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\mux.v|
+!s101 -O0
+!i113 1
+R3
+vmux32_32x1
+!s110 1418021069
+!i10b 1
+!s100 kz=d6bWaI`1z5?HmLMM2o2
+I7WjjmOadOD3R4_0N?PUEX3
+R0
+R1
+R76
+R77
+R78
+L0 118
+R2
+r1
+!s85 0
+31
+R79
+R80
+R81
+!s101 -O0
+!i113 1
+R3
+vmux32_4x1
+R82
+!i10b 1
+!s100 ee0f`kW?8IURNUi9X[Tn?1
+I;6OSZ;iB:j0?Pm6cTbkiM2
+R0
+R1
+R76
+R77
+R78
+L0 65
+R2
+r1
+!s85 0
+31
+R79
+R80
+R81
+!s101 -O0
+!i113 1
+R3
+vmux32_8x1
+R82
+!i10b 1
+!s100 eboG25aaQJ;RTCQh]YFkd3
+ICE8:lK18TkYY>LOl^iZPZ0
+R0
+R1
+R76
+R77
+R78
+L0 78
+R2
+r1
+!s85 0
+31
+R79
+R80
+R81
+!s101 -O0
+!i113 1
+R3
+vmux64_2x1
+R75
+!i10b 1
+!s100 T`[XlG5S1XMY7E^MV44kE0
+I@<bJJdEMBn7z>R_?f0PGK1
+R0
+R1
+R76
+R77
+R78
+L0 51
+R2
+r1
+!s85 0
+31
+R79
+R80
+R81
+!s101 -O0
+!i113 1
+R3
+vnand3
+R39
+!i10b 1
+!s100 di0a1CIzi36AjnmoHV;]O2
+I[4E_iN5ZecnY4H?cB3V1A3
+R0
+R1
+R19
+R20
+R21
+L0 57
+R2
+r1
+!s85 0
+31
+R22
+R23
+R24
+!s101 -O0
+!i113 1
+R3
+vnor32
+R59
+!i10b 1
+!s100 DM]bNn][[nXQRKVNbHJ4O3
+IFA[<YnLH]MzJ65>HLZ`=@3
+R0
+R1
+R19
+R20
+R21
+L0 218
+R2
+r1
+!s85 0
+31
+R22
+R23
+R24
+!s101 -O0
+!i113 1
+R3
+vor27x1
+!s110 1417238790
+!i10b 1
+!s100 AVDR6A07NSP>bAzBB@^Y^0
+I^ki3fZe3TmV`:M<k]V1OX0
+R0
+R1
+w1417238762
+Z83 8E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\logic.v
+Z84 FE:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\logic.v
+L0 248
+R2
+r1
+!s85 0
+31
+!s108 1417238789.091000
+Z85 !s107 E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\logic.v|
+Z86 !s90 -reportprogress|300|-work|work|-stats=none|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\logic.v|
+!s101 -O0
+!i113 1
+R3
+vor31x1
+R18
+!i10b 1
+!s100 ?4?iD_cd6jPe1Xo65`]zd1
+IXgC0HUa@ZShojCRlYV23m0
+R0
+R1
+R19
+R20
+R21
+L0 272
+R2
+r1
+!s85 0
+31
+R22
+R23
+R24
+!s101 -O0
+!i113 1
+R3
+vor32
+!s110 1418021077
+!i10b 1
+!s100 2]T68:4iN[6L]PUKH=>gA3
+IOJBlXSmT5d:W^o2Uf2SlY0
+R0
+R1
+R19
+R20
+R21
+L0 315
+R2
+r1
+!s85 0
+31
+R22
+R23
+R24
+!s101 -O0
+!i113 1
+R3
+vPROC_CS147_SEC05
+!s110 1418100940
+!i10b 1
+!s100 LCQU6O19V_gNi<NBAOBaD2
+I4fnLkz4IgA<I5=Uj=3nbC3
+R0
+R1
+w1418100758
+8E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\processor.v
+FE:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\processor.v
+R47
+R2
+r1
+!s85 0
+31
+!s108 1418100939.392000
+!s107 prj_definition.v|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\processor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\Standard\Documents\Class\2014-09\Computer Architecture CS147\prj_03\processor.v|
+!s101 -O0
+!i113 1
+R3
+n@p@r@o@c_@c@s147_@s@e@c05
+vPROC_SM
+R43
+!i10b 1
+!s100 f5[GkDeLzRd[FKCAjFOl81
+IaTEQ]k8F@9?FcnV@62]P]1
+R0
+R1
+R44
+R45
+R46
+L0 270
+R2
+r1
+!s85 0
+31
+R48
+R49
+R50
+!s101 -O0
+!i113 1
+R3
+n@p@r@o@c_@s@m
+vrc_ad_sub_32
+!s110 1415821596
+!i10b 1
+!s100 ][QBX9PLF00LkVg?VAaXU0
+I:7eh5AY`h9gcZzKYh98381
+R0
+R1
+w1415821590
+R53
+R54
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1415821595.548000
+R56
+R57
+!s101 -O0
+!i113 1
+R3
+vrc_add_sub_32
+R51
+!i10b 1
+!s100 1PZZF?2e5jk<jzH[J37c<0
+IIj>_B`Dh`4znAeb8G:9T@0
+R0
+R1
+R52
+R53
+R54
+L0 8
+R2
+r1
+!s85 0
+31
+R55
+R56
+R57
+!s101 -O0
+!i113 1
+R3
+vrc_add_sub_64
+R51
+!i10b 1
+!s100 ^Se<@OXIYGR^?UhIiYNbW1
+Imi>Cb[X50hez@Fh@o0n2B1
+R0
+R1
+R52
+R53
+R54
+L0 41
+R2
+r1
+!s85 0
+31
+R55
+R56
+R57
+!s101 -O0
+!i113 1
+R3
+vREG32_PC_TB
+Z87 !s110 1417827635
+!i10b 1
+!s100 Gj:XE4:2E0MD`WG8VS`NS2
+I_g9gA4FAMWWBcn:eVmTaj0
+R0
+R1
+Z88 w1417827629
+R11
+R12
+L0 54
+R2
+r1
+!s85 0
+31
+Z89 !s108 1417827634.933000
+R14
+R15
+!s101 -O0
+!i113 1
+R3
+n@r@e@g32_@p@c_@t@b
+vREG32_PP
+R9
+!i10b 1
+!s100 X0JA>P@2a4dO01m>[zajP3
+I;gm=hK[eOE[HI>_]PSz9A3
+R0
+R1
+R10
+R11
+R12
+L0 2
+R2
+r1
+!s85 0
+31
+R13
+R14
+R15
+!s101 -O0
+!i113 1
+R3
+n@r@e@g32_@p@p
+vREG32_SP_TB
+R87
+!i10b 1
+!s100 mi<D768z9cMn7UmJCk^ed2
+ITQLc_EZSK=XP:cBYBZ:?41
+R0
+R1
+R88
+R11
+R12
+R17
+R2
+r1
+!s85 0
+31
+R89
+R14
+R15
+!s101 -O0
+!i113 1
+R3
+n@r@e@g32_@s@p_@t@b
+vREGISTER_FILE_32x32
+R32
+!i10b 1
+!s100 0jiD`OVzWC64@CA8oaH`<3
+IbcTEI@GQ4OI:K8K9238=_0
+R0
+R1
+R33
+R34
+R35
+R16
+R2
+r1
+!s85 0
+31
+R36
+R37
+R38
+!s101 -O0
+!i113 1
+R3
+n@r@e@g@i@s@t@e@r_@f@i@l@e_32x32
+vRF_TB
+!s110 1417224609
+!i10b 1
+!s100 idXCYc>eQ<7cZngGMb6kl3
+ISchZaNCeh05[@b2Mle]Hl2
+R0
+R1
+w1415815006
+8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_register_file_tb.v
+FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_register_file_tb.v
+R17
+R2
+r1
+!s85 0
+31
+!s108 1417224608.652000
+!s107 prj_definition.v|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_register_file_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/prj_03/a_register_file_tb.v|
+!s101 -O0
+!i113 1
+R3
+n@r@f_@t@b
+vright_shifter
+R25
+!i10b 1
+!s100 ]=6T5C6LbgWbfhh555U7F1
+Inne0WYY=0aa[<BD:i7Ko13
+R0
+R1
+R26
+R27
+R28
+Z90 L0 93
+R2
+r1
+!s85 0
+31
+R29
+R30
+R31
+!s101 -O0
+!i113 1
+R3
+vSYSTEM_IMPLEMENTATION
+R60
+!i10b 1
+!s100 =PDe9Mlm[_J4IUH=k1U@d0
+IjB`2V?g>XW4L013O<<>Bh2
+R0
+R1
+R61
+R62
+R63
+R90
+R2
+r1
+!s85 0
+31
+R64
+R65
+R66
+!s101 -O0
+!i113 1
+R3
+n@s@y@s@t@e@m_@i@m@p@l@e@m@e@n@t@a@t@i@o@n
+vtwosComplement
+R41
+!i10b 1
+!s100 F9Y=F=QJ6=kNd7U=:Y`fR0
+I7C4XN:PR;0WUQKG;UBo581
+R0
+R1
+R19
+R20
+R21
+L0 7
+R2
+r1
+!s85 0
+31
+R22
+R23
+R24
+!s101 -O0
+!i113 1
+R3
+ntwos@complement
+vTwosComplement
+Z91 !s110 1417071438
+!i10b 1
+!s100 mEm4::Vn@dkc:COiQM@i60
+IW4F>6e0le?I7L`?o]69Ge3
+R0
+R1
+Z92 w1417071159
+R83
+R84
+L0 1
+R2
+r1
+!s85 0
+31
+Z93 !s108 1417071435.286000
+R85
+R86
+!s101 -O0
+!i113 1
+R3
+n@twos@complement
+vtwosComplement64
+R41
+!i10b 1
+!s100 <VWL189FPH:SQO3L7iMmQ0
+IB[>iV9CNaEi:]hYK>;o4E3
+R0
+R1
+R19
+R20
+R21
+R67
+R2
+r1
+!s85 0
+31
+R22
+R23
+R24
+!s101 -O0
+!i113 1
+R3
+ntwos@complement64
+vTwosComplement64
+R91
+!i10b 1
+!s100 TWzd4W`@`87I>H?jG;d<]3
+IW^zMAAYijhilglS2k=>Zd3
+R0
+R1
+R92
+R83
+R84
+L0 19
+R2
+r1
+!s85 0
+31
+R93
+R85
+R86
+!s101 -O0
+!i113 1
+R3
+n@twos@complement64

@@ -1,0 +1,13 @@
+module NOR32(Y, A, B);
+	output [31:0] Y;
+	input [31:0] A, B;
+	
+	genvar i;
+	generate
+		for (i=0; i<32; i=i+1)
+		begin : nor32_gen_loop
+			nor nor_inst(Y[i], A[i], B[i]);
+		end
+	endgenerate
+endmodule
+			

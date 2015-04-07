@@ -1,0 +1,120 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.3c/examples
+vDFF
+!s110 1414087215
+!i10b 1
+!s100 mF:m`WU68`4ZC@loU_T?93
+I28XRkmH@KHAULU<2f4HHa2
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+Z1 dE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02
+Z2 w1410147124
+8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/dff.v
+FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/dff.v
+L0 19
+Z3 OP;L;10.3c;59
+r1
+!s85 0
+31
+!s108 1414087214.334000
+!s107 E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/dff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/dff.v|
+!s101 -O0
+!i113 1
+Z4 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@d@f@f
+vINVERTER
+!s110 1414087216
+!i10b 1
+!s100 6ffoCje:7fQL[NBzHmz<n2
+IJ1ChXU9Rd;jG=1B^nMB0]1
+R0
+R1
+R2
+8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/inv.v
+FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/inv.v
+L0 16
+R3
+r1
+!s85 0
+31
+!s108 1414087215.914000
+!s107 E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/inv.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/inv.v|
+!s101 -O0
+!i113 1
+R4
+n@i@n@v@e@r@t@e@r
+vRIPPLE_COUNTER
+!s110 1414087217
+!i10b 1
+!s100 kEPFFOIRVNY;c_olXVZ0d0
+Ic?[kD]HC65i9SYS<:fY>Q0
+R0
+R1
+R2
+8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/rcounter.v
+FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/rcounter.v
+Z5 L0 17
+R3
+r1
+!s85 0
+31
+!s108 1414087217.302000
+!s107 E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/rcounter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/rcounter.v|
+!s101 -O0
+!i113 1
+R4
+n@r@i@p@p@l@e_@c@o@u@n@t@e@r
+vRIPPLE_COUNTER_TB
+!s110 1414087219
+!i10b 1
+!s100 SSL]aQVe>iH4FkOKFRUj[0
+IS8H;BRROJcVSghI1bhRSK3
+R0
+R1
+R2
+8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/rcounter_tb.v
+FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/rcounter_tb.v
+L0 14
+R3
+r1
+!s85 0
+31
+!s108 1414087218.612000
+!s107 E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/rcounter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/rcounter_tb.v|
+!s101 -O0
+!i113 1
+R4
+n@r@i@p@p@l@e_@c@o@u@n@t@e@r_@t@b
+vTFF
+!s110 1414087220
+!i10b 1
+!s100 dL`i0dejjcd9b74_=7iHg1
+IXLe:m>@g8`Sj?1]0<52g>2
+R0
+R1
+R2
+8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/tff.v
+FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/tff.v
+R5
+R3
+r1
+!s85 0
+31
+!s108 1414087219.947000
+!s107 E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/tff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_02/tff.v|
+!s101 -O0
+!i113 1
+R4
+n@t@f@f

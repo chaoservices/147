@@ -1,0 +1,79 @@
+C:/Users/Standard/Decon/Lab4/gen_multi_clk.v {1 {vlog -work work -stats=none C:/Users/Standard/Decon/Lab4/gen_multi_clk.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module gen_multi_clk
+
+Top level modules:
+	gen_multi_clk
+
+} {} {}} C:/Users/Standard/Decon/Lab4/100mhz_vga.v {1 {vlog -work work -stats=none C:/Users/Standard/Decon/Lab4/100mhz_vga.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module sync_gen100
+
+Top level modules:
+	sync_gen100
+
+} {} {}} C:/Users/Standard/Decon/Lab4/regfile.v {1 {vlog -work work -stats=none C:/Users/Standard/Decon/Lab4/regfile.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} C:/Users/Standard/Decon/Lab4/cpu_top.v {1 {vlog -work work -stats=none C:/Users/Standard/Decon/Lab4/cpu_top.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module cpu_top
+
+Top level modules:
+	cpu_top
+
+} {} {}} C:/Users/Standard/Decon/Lab4/datapath.v {1 {vlog -work work -stats=none C:/Users/Standard/Decon/Lab4/datapath.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} C:/Users/Standard/Decon/Lab4/instruction_decoder.v {1 {vlog -work work -stats=none C:/Users/Standard/Decon/Lab4/instruction_decoder.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module instruction_decoder
+
+Top level modules:
+	instruction_decoder
+
+} {} {}} C:/Users/Standard/Decon/Lab4/program_counter.v {1 {vlog -work work -stats=none C:/Users/Standard/Decon/Lab4/program_counter.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module program_counter
+
+Top level modules:
+	program_counter
+
+} {} {}} C:/Users/Standard/Decon/Lab4/instruction_ROM.v {1 {vlog -work work -stats=none C:/Users/Standard/Decon/Lab4/instruction_ROM.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module instruction_ROM
+
+Top level modules:
+	instruction_ROM
+
+} {} {}} C:/Users/Standard/Decon/Lab4/cpu_test.v {1 {vlog -work work -stats=none C:/Users/Standard/Decon/Lab4/cpu_test.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module cpu_test
+-- Compiling module Dff
+
+Top level modules:
+	cpu_test
+
+} {} {}} C:/Users/Standard/Decon/Lab4/tcgrom.v {1 {vlog -work work -stats=none C:/Users/Standard/Decon/Lab4/tcgrom.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module tcgrom
+
+Top level modules:
+	tcgrom
+
+} {} {}} C:/Users/Standard/Decon/Lab4/cpu_vga_driver.v {1 {vlog -work work -stats=none C:/Users/Standard/Decon/Lab4/cpu_vga_driver.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module cpu_vga_driver
+
+Top level modules:
+	cpu_vga_driver
+
+} {} {}}

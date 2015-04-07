@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_04
+valu
+!s110 1414087638
+!i10b 1
+!s100 Q^<Qb`86D]4oM@0RSVa2L2
+IOzHVS64h7_EgjAXmn6KK51
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+Z1 dE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_07
+Z2 w1411454886
+8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_07/alu.v
+FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_07/alu.v
+L0 27
+Z3 OP;L;10.3c;59
+r1
+!s85 0
+31
+!s108 1414087637.356000
+!s107 prj_definition.v|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_07/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_07/alu.v|
+!s101 -O0
+!i113 1
+Z4 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vlab_07_tb
+!s110 1414087639
+!i10b 1
+!s100 L?BSk[:m6;m7WKZWX[C7;2
+IVk5;`50=<RCkN`VhB9dzW0
+R0
+R1
+R2
+8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_07/lab_07_tb.v
+FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_07/lab_07_tb.v
+L0 26
+R3
+r1
+!s85 0
+31
+!s108 1414087638.896000
+!s107 prj_definition.v|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_07/lab_07_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_07/lab_07_tb.v|
+!s101 -O0
+!i113 1
+R4
+vsample
+!s110 1414087641
+!i10b 1
+!s100 ;z:0jjA`HfXQdNBM@JGET3
+IFRUn1AfBeT4LL??GGl1b`2
+R0
+R1
+w1411455010
+8E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_07/sample.v
+FE:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_07/sample.v
+L0 11
+R3
+r1
+!s85 0
+31
+!s108 1414087641.206000
+!s107 prj_definition.v|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_07/sample.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Standard/Documents/Class/2014-09/Computer Architecture CS147/lab_07/sample.v|
+!s101 -O0
+!i113 1
+R4

@@ -1,0 +1,53 @@
+module mux32_4x1(result, operand1, operand2, operand3, operand4, control);
+	input [31:0] operand1, operand2, operand3, operand4;
+	input [1:0] control;
+
+	output [31:0] result;
+
+	wire [31:0] mux1Wire, mux2Wire;
+
+	mux32_2x1 m1(.result(mux1Wire), .operand1(operand1), .operand2(operand2), .control(control[0]));
+	mux32_2x1 m2(.result(mux2Wire), .operand1(operand3), .operand2(operand4), .control(control[0]));
+	mux32_2x1 m3(.result(result), .operand1(mux1Wire), .operand2(mux2Wire), .control(control[1]));
+
+endmodule
+module mux32_8x1(result, operand1, operand2, operand3, operand4, 
+	operand5, operand6, operand7, operand8, control);
+	input [31:0] operand1, operand2, operand3, operand4, operand5, operand6, operand7, operand8;
+	input [2:0] control;
+
+	output [31:0] result;
+
+	wire [31:0] mux1Wire, mux2Wire;
+
+	mux32_4x1 m1(.result(mux1Wire), .operand1(operand1), .operand2(operand2), .operand3(operand3), 
+		.operand4(operand4), .control(control[0]));
+	mux32_4x1 m2(.result(mux2Wire), .operand5(operand5), .operand6(operand6), .operand7(operand7), 
+		.operand8(operand8), .control(control[1]));
+	mux32_2x1 m3(.result(result), .operand1(mux1Wire), .operand2(mux2Wire), .control(control[2]));
+
+endmodule
+module mux32_16x1(result, operand1, operand2, operand3, operand4, 
+	operand5, operand6, operand7, operand8,
+	operand9, operand10, operand11, operand12, 
+	operand13, operand14, operand15, operand16, control);
+
+	input [31:0] operand1, operand2, operand3, operand4, 
+	operand5, operand6, operand7, operand8, 
+	operand9, operand10, operand11, operand12, 
+	operand13, operand14, operand15, operand16;
+	input [3:0] control;
+
+	output [31:0] result;
+
+	wire [31:0] mux1Wire, mux2Wire;
+
+	mux32_8x1 m1(.result(mux1Wire), .operand1(operand1), .operand2(operand2), .operand3(operand3), 
+		.operand4(operand4), .operand5(operand5), .operand6(operand6), .operand7(operand7), 
+		.operand8(operand8), .control(control[2:0]));
+	mux32_8x1 m2(.result(mux2Wire), .operand3(operand9), .operand4(operand10), .operand5(operand11), 
+		.operand6(operand12), .operand7(operand13), .operand8(operand14), .operand1(operand15), 
+		.operand1(operand16), .control(control[2:0]));
+	mux32_2x1 m3(.result(result), .operand1(mux1Wire), .operand2(mux2Wire), .control(control[3]));
+
+endmodule	

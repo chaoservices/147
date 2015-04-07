@@ -1,0 +1,139 @@
+/**Name: alu.v
+   Module: ALU
+   Input: OP1[32] - operand 1
+          OP2[32] - operand 2
+          OPRN[6] - operation code
+   Output: OUT[32] - output result for the operation
+  
+   Notes: 32 bit combinatorial ALU
+   
+   Supports the following functions
+  	- Integer add (0x1), sub(0x2), mul(0x3)
+  	- Integer shift_rigth (0x4), shift_left (0x5)
+  	- Bitwise and (0x6), or (0x7), nor (0x8)
+        - set less than (0x9)
+  
+   Revision History:
+  
+   Version	Date		Who		email			note
+------------------------------------------------------------------------------------------
+    1.0     Sep 10, 2014	Kaushik Patra	kpatra@sjsu.edu		Initial creation
+------------------------------------------------------------------------------------------*/
+`include "prj_definition.v"
+module ALU(OUTHIGH, OUTLOW, DONE, ZERO, OP1, OP2, OPRN, CLK);
+	// input list
+	input [`DATA_INDEX_LIMIT:0] OP1; // operand 1
+	input [`DATA_INDEX_LIMIT:0] OP2; // operand 2
+	input [`ALU_OPRN_INDEX_LIMIT:0] OPRN; // operation code
+	input CLK;
+
+	// output list
+	output [`DATA_INDEX_LIMIT:0] OUTHIGH; // result of the operation.
+	output [`DATA_INDEX_LIMIT:0] OUTLOW;
+	output ZERO, DONE;
+
+	wire [31:0] addSubWire;
+	wire [31:0] shftWire;
+	wire [31:0] mulWire;
+	wire [31:0] andWire;
+	wire [31:0] orWire;
+	wire [31:0] norWire;
+	wire [31:0] nullWire;
+	wire [31:0] muxWire, muxDWire;
+	wire [31:0] highWire, divWire;
+	wire [63:0] fullMull;
+	buf32 mulBuff(mulWire, fullMull[31:0]);
+	wire lnr;
+	wire andADDWire;
+	wire orADDWire;
+	wire readyMul;
+	wire readyShift;
+	wire readyDiv;
+
+	and andADD(andADDWire, OPRN[0], OPRN[3]);
+
+	rc_add_sub_32 addSub(addSubWire, nullWire[0], OP1, OP2, OPRN[1]);
+
+	mulControl mul(fullMul, readyMul, OP1, OP2, CLK);
+	//old	mult mult_32Bit_Signed(highWire, mulWire, OP1, OP2);
+
+	not lnrNOT(lnr, OPRN[0]);
+
+	shiftControl sc(shftWire, readyShift, OP1, OP2, lnr, CLK);
+	//barrel_shifter b1(shftWire, OP1, OP2, lnr);
+
+	nor32 n1(norWire, OP1, OP2);
+
+	or32 o1(orWire, OP1, OP2);
+	
+	and32 a1(andWire, OP1, OP2);
+
+	divFast di(divWire, readyDiv, OP1, OP2, CLK);
+
+	mux32_16x1 doneMux(DONE, 32'bZ, 1'b1, 1'b1, readyMul, 
+		readyShift, readyShift, 1'b1, 1'b1, 1'b1, readyDiv, 
+		32'bZ, 32'bZ, 32'bZ, 32'bZ, 32'bZ, 32'bZ, OPRN[3:0]);
+
+	mux32_16x1 resultMux(muxWire, 32'bZ, addSubWire, addSubWire, mulWire, 
+		shftWire, shftWire, andWire, orWire, norWire, divWire, 
+		32'bZ, 32'bZ, 32'bZ, 32'bZ, 32'bZ, 32'bZ, OPRN[3:0]);
+
+	or31x1 or1(ZERO, muxWire);
+	buf32 bbb(OUTLOW, muxWire);
+endmodule
+/*
+ Name: alu.v
+ Module: ALU
+ Input: OP1[32] - operand 1
+        OP2[32] - operand 2
+        OPRN[6] - operation code
+ Output: OUT[32] - output result for the operation
+
+ Notes: 32 bit combinatorial ALU
+ 
+ Supports the following functions
+	- Integer add (0x1), sub(0x2), mul(0x3)
+	- Integer shift_rigth (0x4), shift_left (0x5)
+	- Bitwise and (0x6), or (0x7), nor (0x8)
+        - set less than (0x9)
+
+ Revision History:
+
+ Version	Date		Who		email			note
+------------------------------------------------------------------------------------------
+  1.0     Sep 10, 2014	Kaushik Patra	kpatra@sjsu.edu		Initial creation
+  1.1     Oct 19, 2014  Kaushik Patra   kpatra@sjsu.edu         Added ZERO status output
+  2.0     Oct 29, 2014  David Thorpe    DE.Thorpe@gmail.com     Met output goals for DaVinci_TB
+------------------------------------------------------------------------------------------
+*/
+`include "prj_definition.v"
+module ALUFAST(OUT, ZERO, OP1, OP2, OPRN);
+    // input list
+    input [`DATA_INDEX_LIMIT:0] OP1; // operand 1
+    input [`DATA_INDEX_LIMIT:0] OP2; // operand 2
+    input [`ALU_OPRN_INDEX_LIMIT:0] OPRN; // operation code
+
+    // output list
+    output [`DATA_INDEX_LIMIT:0] OUT; // result of the operation.
+    output ZERO;
+
+    // simulator internal storage - this is not h/w register
+    reg [`DATA_INDEX_LIMIT:0] OUT;
+    reg ZERO;
+
+    always @(OP1 or OP2 or OPRN) begin
+        case (OPRN)
+            `ALU_OPRN_WIDTH'h01 : OUT = OP1 + OP2; // addition
+            `ALU_OPRN_WIDTH'h02 : OUT = OP1 - OP2; // subtraction
+            `ALU_OPRN_WIDTH'h03 : OUT = OP1 * OP2; // multiplication
+            `ALU_OPRN_WIDTH'h04 : OUT = OP1 << OP2; // left shift
+            `ALU_OPRN_WIDTH'h05 : OUT = OP1 >> OP2; // right shift
+            `ALU_OPRN_WIDTH'h06 : OUT = OP1 & OP2; // and
+            `ALU_OPRN_WIDTH'h07 : OUT = OP1 | OP2; // or
+            `ALU_OPRN_WIDTH'h08 : OUT = ~(OP1 | OP2); // nor
+            `ALU_OPRN_WIDTH'h09 : OUT = OP1 < OP2; // less than
+            default: OUT = `DATA_WIDTH'hxxxxxxxx;
+        endcase
+        ZERO = (OUT===1'b0)?1'b1:1'b0;
+    end
+endmodule

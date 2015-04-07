@@ -1,0 +1,16 @@
+module left_shifter(result, operand, shift);
+	input [3:0] operand;
+	input [1:0] shift;
+	reg zero = 0;
+	output [3:0] result;
+	wire m1Out, m2Out, m3Out, m4Out;
+	mux m1(.result(m1Out), .operand1(operand[2]), .operand2(operand[3]), .control(shift[0]));
+	mux m2(.result(m2Out), .operand1(operand[1]), .operand2(operand[2]), .control(shift[0]));
+	mux m3(.result(m3Out), .operand1(operand[0]), .operand2(operand[1]), .control(shift[0]));
+	mux m4(.result(m4Out), .operand1(zero), .operand2(operand[0]), .control(shift[0]));
+	mux m5(.result(result[3]), .operand1(m3Out), .operand2(m1Out), .control(shift[1]));
+	mux m6(.result(result[2]), .operand1(m4Out), .operand2(m2Out), .control(shift[1]));
+	mux m7(.result(result[1]), .operand1(zero), .operand2(m3Out), .control(shift[1]));
+	mux m8(.result(result[0]), .operand1(zero), .operand2(m4Out), .control(shift[1]));
+
+endmodule
